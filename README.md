@@ -9,6 +9,7 @@ A simple chat interface built with Streamlit that connects to Google's Gemini AI
 - 🎨 Multiple Gemini model support
 - 🔐 Secure API key handling
 - ⚡ Real-time responses
+![UI Screenshot](ui.png)
 
 ## Prerequisites
 
