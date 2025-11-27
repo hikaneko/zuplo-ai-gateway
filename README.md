@@ -19,13 +19,7 @@ A simple chat interface built with Streamlit that connects to Google's Gemini AI
 
 ## Installation
 
-1. Clone this repository:
-```bash
-git clone <your-repository-url>
-cd <repository-name>
-```
-
-2. Install required dependencies:
+Install required dependencies:
 ```bash
 pip install streamlit requests
 ```
