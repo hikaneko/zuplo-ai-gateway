@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("💬 Gemini Chat via Zuplo")
 
 # Zuplo AI Gateway endpoint
-ZUPLO_ENDPOINT = "https://first-project-ai-gateway-6190395.zuplo.app/v1/chat/completions"
+ZUPLO_ENDPOINT = "https://<YOUR Endpoint>.zuplo.app/v1/chat/completions"
 
 # Sidebar for API key input
 with st.sidebar:
